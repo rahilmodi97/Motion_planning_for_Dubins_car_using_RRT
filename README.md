@@ -9,6 +9,6 @@ When you run the python file you will asked to put in inputs for start position 
 
 The repository also consists of the report and presentation we submitted.
 
-Images/1.png
-Images/2.png
-Images/3.png
+https://github.com/rahilmodi97/Motion_planning_for_Dubins_car_using_RRT/blob/master/Images/1.png
+https://github.com/rahilmodi97/Motion_planning_for_Dubins_car_using_RRT/blob/master/Images/2.png
+https://github.com/rahilmodi97/Motion_planning_for_Dubins_car_using_RRT/blob/master/Images/3.png
