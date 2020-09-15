@@ -8,7 +8,8 @@ When you run the python file you will asked to put in inputs for start position 
 
 The repository also consists of the report and presentation we submitted.
 
-![1](https://user-images.githubusercontent.com/56795228/91084052-5f8f0200-e619-11ea-8780-42e8bb1305f6.png)
-![2](https://user-images.githubusercontent.com/56795228/91084055-60279880-e619-11ea-8d1c-005a479e99db.png)
-![3](https://user-images.githubusercontent.com/56795228/91084058-60c02f00-e619-11ea-912c-234c7324ea11.png)
+<img src="https://user-images.githubusercontent.com/56795228/91084052-5f8f0200-e619-11ea-8780-42e8bb1305f6.png" width="600">
+<img src="https://user-images.githubusercontent.com/56795228/91084055-60279880-e619-11ea-8d1c-005a479e99db.png" width="600">
+<img src="https://user-images.githubusercontent.com/56795228/91084058-60c02f00-e619-11ea-912c-234c7324ea11.png" width="600">
+
 
